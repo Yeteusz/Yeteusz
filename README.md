@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yeteusz
-- 👀 I’m interested in programming in javascript
+- 👀 I’m interested in programming in python,js,php
 - 🌱 I’m currently learning Secondary School (programmer)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me discord (yeeeti#0060)
+- 📫 How to reach me discord (yeeeti#8411)
 
 <!---
 Yeteusz/Yeteusz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
